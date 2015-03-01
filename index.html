@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html ng-app="toolbarDemo2" ng-csp="">
+<head>
+  <title>test_ang</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/angular-material.min.css">
+</head>
+
+<body>
+
+  <!--<h1 id="greeting"></h1> -->
+
+  <div ng-controller="AppCtrl" layout="column" layout-fill>
+  <md-toolbar md-scroll-shrink>
+    <div class="md-toolbar-tools">
+      <h3>
+        <span>Chromebooks.Today Chorme App</span>
+      </h3>
+    </div>
+  </md-toolbar>
+  <md-content style="height: 600px;">
+    <md-list>
+      <md-item ng-repeat="item in todos">
+        <md-item-content>
+          <div class="md-tile-left">
+            <img ng-src="{{item.face}}" alt="{{item.who}}" class="face">
+          </div>
+          <div class="md-tile-content">
+            <h3>{{item.what}}</h3>
+            <h4>{{item.who}}</h4>
+            <p>
+              {{item.notes}}
+            </p>
+          </div>
+        </md-item-content>
+        <md-divider inset></md-divider>
+      </md-item>
+    </md-list>
+  </md-content>
+</div>
+
+  <!-- Angular Material Dependencies                                  -->
+  <script src="/js/angular.js"></script>
+  <script src="/js/angular-animate.min.js"></script>
+  <script src="/js/angular-aria.min.js"></script>
+  <script src="/js/angular-material.min.js"></script>
+
+  <!-- xml to json script- to pull in the podcast feed                -->
+  <script src="/js/xml2json.js"></script>
+  <!-- ref http://rabidgadfly.com/2013/02/angular-and-xml-no-problem/ -->
+  <!-- ref https://code.google.com/p/x2js/                            -->
+
+  <!-- main app script                                                -->
+  <script src="/js/main.js"></script>
+
+</body>
+</html>
