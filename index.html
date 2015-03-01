@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="toolbarDemo2" ng-csp="">
+<html data-ng-app="ctApp" data-ng-csp="">
 <head>
   <title>test_ang</title>
   <link rel="stylesheet" href="/css/styles.css">
@@ -10,20 +10,20 @@
 
   <!--<h1 id="greeting"></h1> -->
 
-  <div ng-controller="AppCtrl" layout="column" layout-fill>
+  <div data-ng-controller="FeedCtrl" layout="column" layout-fill>
   <md-toolbar md-scroll-shrink>
     <div class="md-toolbar-tools">
       <h3>
-        <span>Chromebooks.Today Chorme App</span>
+        <span>Chromebooks.Today Chrome App</span>
       </h3>
     </div>
   </md-toolbar>
   <md-content style="height: 600px;">
     <md-list>
-      <md-item ng-repeat="item in todos">
+      <md-item data-ng-repeat="item in items">
         <md-item-content>
           <div class="md-tile-left">
-            <img ng-src="{{item.face}}" alt="{{item.who}}" class="face">
+            <img data-ng-src="{{item.face}}" alt="{{item.who}}" class="face">
           </div>
           <div class="md-tile-content">
             <h3>{{item.what}}</h3>

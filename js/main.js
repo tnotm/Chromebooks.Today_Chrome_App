@@ -1,23 +1,34 @@
 window.onload = function() {
  // document.querySelector('#greeting').innerText =
  //  'Hello, World! It is ' + new Date();
-
-
-
 };
 
-var app = angular.module('toolbarDemo2', ['ngMaterial']);
-app.controller('AppCtrl', function($scope) {
+var app = angular.module('ctApp', ['ngMaterial'])
+// config from Shaun at StackOverFlow - http://stackoverflow.com/a/22798336
+.config( [
+    '$compileProvider',
+    function( $compileProvider ) {
+        var currentImgSrcSanitizationWhitelist = $compileProvider.imgSrcSanitizationWhitelist();
+        var newImgSrcSanitizationWhiteList = currentImgSrcSanitizationWhitelist.toString().slice(0,-1)
+        + '|chrome-extension:'
+        +currentImgSrcSanitizationWhitelist.toString().slice(-1);
+
+        console.log("Changing imgSrcSanitizationWhiteList from "+currentImgSrcSanitizationWhitelist+" to "+newImgSrcSanitizationWhiteList);
+        $compileProvider.imgSrcSanitizationWhitelist(newImgSrcSanitizationWhiteList);
+    }
+]);
+
+app.controller('FeedCtrl', function($scope) {
   var item = {
-    face: '/img/list/60.jpeg',
+    face: '/assets/60.jpeg',
     what: 'Brunch this weekend?',
     who: 'Min Li Chan',
     notes: "I'll be in your neighborhood doing errands."
   };
-  $scope.todos = [];
+  $scope.items = [];
   for (var i = 0; i < 15; i++) {
-    $scope.todos.push({
-      face: '/img/list/60.jpeg',
+    $scope.items.push({
+      face: '/assets/60.jpeg',
       what: "Brunch this weekend?",
       who: "Min Li Chan",
       notes: "I'll be in your neighborhood doing errands."
@@ -25,44 +36,3 @@ app.controller('AppCtrl', function($scope) {
   }
 });
 
-angular.module('myApp.service',[]).
-    factory('DataSource', ['$http',function($http){
-       return {
-           get: function(file,callback,transform){
-                $http.get(
-                    file,
-                    {transformResponse:transform}
-                ).
-                success(function(data, status) {
-                    console.log("Request succeeded");
-                    callback(data);
-                }).
-                error(function(data, status) {
-                    console.log("Request failed " + status);
-                });
-           }
-       };
-    }]);
-
-angular.module('myApp',['myApp.service']);
-
-var AppController = function($scope,DataSource) {
-
-    var SOURCE_FILE = "feed.xml";
-
-    $scope.IMAGE_LOCATION = "http://cdn.chromebooks.today/rss/";
-
-    xmlTransform = function(data) {
-        console.log("transform data");
-        var x2js = new X2JS();
-        var json = x2js.xml_str2json( data );
-        return json.guitars.guitar;
-    };
-
-    setData = function(data) {
-        $scope.dataSet = data;
-    };
-
-    DataSource.get(SOURCE_FILE,setData,xmlTransform);
-
-};
