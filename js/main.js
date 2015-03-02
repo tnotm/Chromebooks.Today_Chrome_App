@@ -3,11 +3,33 @@ window.onload = function() {
  //  'Hello, World! It is ' + new Date();
 };
 
+function FeedCtrl($scope, $http) {
+  var item = {
+    face: '/assets/60.jpeg',
+    what: 'Brunch this weekend?',
+    who: 'Min Li Chan',
+    notes: "I'll be in your neighborhood doing errands."
+  };
+  $scope.items = [];
+  for (var i = 0; i < 10; i++) {
+    $scope.items.push({
+      face: '/assets/60.jpeg',
+      what: "Brunch this weekend?",
+      who: "Min Li Chan",
+      notes: "I'll be in your neighborhood doing errands."
+    });
+  };
+  
+  $http.get('http://cdn.chromebooks.today/rss/feed.xml')
+    .success(function(response) {
+		$scope.feedData = response;
+		console.log($scope.feedData);
+	});
+}
+
 var app = angular.module('ctApp', ['ngMaterial'])
 // config from Shaun at StackOverFlow - http://stackoverflow.com/a/22798336
-.config( [
-    '$compileProvider',
-    function( $compileProvider ) {
+.config( [ '$compileProvider', function( $compileProvider ) {
         var currentImgSrcSanitizationWhitelist = $compileProvider.imgSrcSanitizationWhitelist();
         var newImgSrcSanitizationWhiteList = currentImgSrcSanitizationWhitelist.toString().slice(0,-1)
         + '|chrome-extension:'
@@ -16,23 +38,6 @@ var app = angular.module('ctApp', ['ngMaterial'])
         console.log("Changing imgSrcSanitizationWhiteList from "+currentImgSrcSanitizationWhitelist+" to "+newImgSrcSanitizationWhiteList);
         $compileProvider.imgSrcSanitizationWhitelist(newImgSrcSanitizationWhiteList);
     }
-]);
-
-app.controller('FeedCtrl', function($scope) {
-  var item = {
-    face: '/assets/60.jpeg',
-    what: 'Brunch this weekend?',
-    who: 'Min Li Chan',
-    notes: "I'll be in your neighborhood doing errands."
-  };
-  $scope.items = [];
-  for (var i = 0; i < 15; i++) {
-    $scope.items.push({
-      face: '/assets/60.jpeg',
-      what: "Brunch this weekend?",
-      who: "Min Li Chan",
-      notes: "I'll be in your neighborhood doing errands."
-    });
-  }
-});
+])
+.controller('FeedCtrl', FeedCtrl);
 
