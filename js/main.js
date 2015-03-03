@@ -65,6 +65,7 @@ function FeedCtrl($scope, $http) {
 
   $scope.title = "How to use XML inside AngularJS";
   $http.get('assets/feed.xml').then(function(response) {
+//	$http.get('http://cdn.chromebooks.today/rss/feed.xml').then(function(response) {
     var items = [];
     /*setting up the response*/
 	var x2js = new X2JS()
@@ -83,7 +84,9 @@ function FeedCtrl($scope, $http) {
         link: $scope.itemsObj[i].link,
 		author: $scope.itemsObj[i].author,
 		pubDate: new Date($scope.itemsObj[i].pubDate),
-		summary: $scope.itemsObj[i].summary
+		summary: $scope.itemsObj[i].summary,
+		duration: $scope.itemsObj[i].duration,
+		description: $scope.itemsObj[i].description
       });
     }
  

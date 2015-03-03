@@ -4,6 +4,7 @@
   <title>test_ang</title>
   <link rel="stylesheet" href="/css/styles.css">
   <link rel="stylesheet" href="/css/angular-material.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
@@ -14,20 +15,20 @@
   <md-toolbar md-scroll-shrink>
     <div class="md-toolbar-tools">
       <h3>
-        <span>Chromebooks.Today Chrome App</span>
+        <img src="assets/logo_rnd_sm.jpg" style="width:25px;height:25px"><span>Chromebooks.Today Chrome App</span>
       </h3>
     </div>
   </md-toolbar>
-  {{items[0].title}}
   <md-content style="height: 600px;">
      <md-list>
       <md-item data-ng-repeat="id in itemNames">
         <md-item-content>
-          <div class="md-tile-left"></div>
+<!--           <div class="md-tile-left"><i class="fa fa fa-microphone fa-3x"></i></div> -->
           <div class="md-tile-content">
-            <h3>{{id.title}}</h3>
-          </div>
-		  <p>{{id.pubDate | date:"MM/dd/yyyy"}}</p>
+            <h2>{{id.title}}</h2>
+			<h3>{{id.pubDate | date:"MM/dd/yyyy"}} | <i class="fa fa-clock-o"></i> {{id.duration.__text}}</h3>
+<!--           <p>{{id.summary.__cdata}}</p> -->
+		  </div>
         </md-item-content>
         <md-divider inset></md-divider>
       </md-item>
