@@ -18,6 +18,7 @@
   },
 
   "permissions": [
+    "https://ajax.googleapis.com/",
     "http://www.chromebooks.today/",
     "http://cdn.chromebooks.today/",
     "https://archive.org/download/"

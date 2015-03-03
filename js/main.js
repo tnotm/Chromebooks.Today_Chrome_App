@@ -20,12 +20,16 @@ function FeedCtrl($scope, $http) {
     });
   };
   
-  $http.get('http://cdn.chromebooks.today/rss/feed.xml')
+    $http.get('http://cdn.chromebooks.today/rss/feed.xml')
     .success(function(response) {
 		$scope.feedData = response;
 		console.log($scope.feedData);
+		var x2js = new X2JS();
+        $scope.json = x2js.xml_str2json($scope.feedData);
+		console.log($scope.json);
 	});
-}
+	
+};
 
 var app = angular.module('ctApp', ['ngMaterial'])
 // config from Shaun at StackOverFlow - http://stackoverflow.com/a/22798336
