@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- generator="Craigbot v3.14159265359" -->
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chromebooks Today</title>
+        <link>http://www.chromebooks.today/</link>
+        <atom:link href="http://cdn.chromebooks.today/rss/feed.xml" rel="self" type="application/rss+xml" />
+        <description>A weekly podcast where Chrombook news and views collide.</description>
+        <lastBuildDate>Wed, 18 Feb 2015 08:00:00 -0500</lastBuildDate>
+        <language>en</language>
+        <copyright>Chromebooks Today 2015</copyright>
+        <itunes:image href="http://cdn.chromebooks.today/images/feed-thumbnail.png" />
+        <image>
+            <url>http://cdn.chromebooks.today/images/feed-thumbnail.png</url>
+            <title>Chromebooks Today</title>
+            <link>http://www.chromebooks.today/</link>
+        </image>
+        <itunes:summary>A weekly podcast where Chrombook news and views collide.</itunes:summary>
+        <itunes:subtitle>A weekly podcast where Chrombook news and views collide.</itunes:subtitle>
+        <itunes:author>Chromebooks Today</itunes:author>
+        <itunes:owner>
+            <itunes:name>Chromebooks Today</itunes:name>
+            <itunes:email>hello@chromebooks.today</itunes:email>
+		</itunes:owner>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:category text="Technology">
+            <itunes:category text="Podcasting"/>
+        </itunes:category>
+        <!-- BEGIN -->
+        <item>
+            <title>Episode 0: Prepare for Launch</title>
+            <link>http://www.chromebooks.today/</link>
+            <author>hello@chromebooks.today (Chromebooks Today)</author>
+            <itunes:author>Chromebooks Today</itunes:author>
+            <pubDate>Wed, 18 Feb 2015 08:00:00 -0500</pubDate>
+            <guid>https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3</guid>
+            <description>
+                <![CDATA[
+                <i>On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect.</i>
+                <br /><br />
+                <i>Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting <a href="http://www.chromebooks.today">www.chromebooks.today</a>, today.</i>
+                ]]>
+            </description>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary><![CDATA[ On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect. Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting www.chromebooks.toda, today. ]]></itunes:summary>
+            <enclosure url="https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3" length="8052145" type="audio/mpeg" />
+            <itunes:duration>00:08:13</itunes:duration>
+            <itunes:keywords>chromebook</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Podcasts</category>
+        </item>
+        <!-- END -->
+		<item>
+            <title>Episode 1: Today is Today</title>
+            <link>http://www.chromebooks.today/</link>
+            <author>hello@chromebooks.today (Chromebooks Today)</author>
+            <itunes:author>Chromebooks Today</itunes:author>
+            <pubDate>Wed, 18 Mar 2015 08:00:00 -0500</pubDate>
+            <guid>https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3</guid>
+            <description>
+                <![CDATA[
+                <i>On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect.</i>
+                <br /><br />
+                <i>Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting <a href="http://www.chromebooks.today">www.chromebooks.today</a>, today.</i>
+                ]]>
+            </description>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary><![CDATA[ On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect. Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting www.chromebooks.toda, today. ]]></itunes:summary>
+            <enclosure url="https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3" length="8052145" type="audio/mpeg" />
+            <itunes:duration>00:08:13</itunes:duration>
+            <itunes:keywords>chromebook</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Podcasts</category>
+        </item>
+		<item>
+            <title>Episode 2: Welcome to Today</title>
+            <link>http://www.chromebooks.today/</link>
+            <author>hello@chromebooks.today (Chromebooks Today)</author>
+            <itunes:author>Chromebooks Today</itunes:author>
+            <pubDate>Wed, 18 Feb 2015 08:00:00 -0500</pubDate>
+            <guid>https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3</guid>
+            <description>
+                <![CDATA[
+                <i>On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect.</i>
+                <br /><br />
+                <i>Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting <a href="http://www.chromebooks.today">www.chromebooks.today</a>, today.</i>
+                ]]>
+            </description>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary><![CDATA[ On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect. Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting www.chromebooks.toda, today. ]]></itunes:summary>
+            <enclosure url="https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3" length="8052145" type="audio/mpeg" />
+            <itunes:duration>00:08:13</itunes:duration>
+            <itunes:keywords>chromebook</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Podcasts</category>
+        </item>
+		<item>
+            <title>Episode 3: Test 3</title>
+            <link>http://www.chromebooks.today/</link>
+            <author>hello@chromebooks.today (Chromebooks Today)</author>
+            <itunes:author>Chromebooks Today</itunes:author>
+            <pubDate>Wed, 18 Feb 2015 08:00:00 -0500</pubDate>
+            <guid>https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3</guid>
+            <description>
+                <![CDATA[
+                <i>On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect.</i>
+                <br /><br />
+                <i>Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting <a href="http://www.chromebooks.today">www.chromebooks.today</a>, today.</i>
+                ]]>
+            </description>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary><![CDATA[ On this pre-launch episode, the team introduces the Chromebooks Today podcast. They discuss the end of Practical Chrome, the motivation for starting a new show, and share details about the new format and what to expect. Be sure to join us for our very first episode, airing the first week of March! Subscribe to our RSS feed by visiting www.chromebooks.toda, today. ]]></itunes:summary>
+            <enclosure url="https://archive.org/download/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3" length="8052145" type="audio/mpeg" />
+            <itunes:duration>00:08:13</itunes:duration>
+            <itunes:keywords>chromebook</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Podcasts</category>
+        </item>
+    </channel>
+</rss>

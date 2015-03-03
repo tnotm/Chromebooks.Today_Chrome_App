@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?> 
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?> 
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"> 
+<channel> 
+<title>Practical Chrome</title> 
+<link>http://www.practicalchrome.com/search/label/podcast</link> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/PracticalChrome_podcast" /> 
+<description>A podcast dedicated to everyday Chrome users. Get the latest tips, news, and reviews on all things Google Chrome. Do you have a Chromebook, or do you use the Chrome browser? Then this is the podcast to keep you in the know. Come join us on the next episode of Practical Chrome podcast.</description> 
+<language>en</language> 
+<managingEditor>noreply@blogger.com (John Oliphant)</managingEditor> 
+<lastBuildDate>Thu, 19 Feb 2015 11:22:20 PST</lastBuildDate> 
+<generator>Blogger http://www.blogger.com</generator> 
+<openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">38</openSearch:totalResults> 
+<openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex> 
+<openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">25</openSearch:itemsPerPage> 
+<feedburner:info uri="practicalchrome_podcast" /> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /> 
+<media:thumbnail url="http://4.bp.blogspot.com/-gp-mdsvHzYo/UuH4J5f4EXI/AAAAAAAAFE8/irDBcKyUh4E/s1600/pc_logo.png" /> 
+<media:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</media:keywords>
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Podcasting</media:category> 
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category> 
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category> 
+<itunes:owner> 
+<itunes:email>john@practicalchrome.com</itunes:email> 
+<itunes:name>Practical Chrome</itunes:name> 
+</itunes:owner> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:image href="http://4.bp.blogspot.com/-gp-mdsvHzYo/UuH4J5f4EXI/AAAAAAAAFE8/irDBcKyUh4E/s1600/pc_logo.png" /> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<itunes:subtitle>Dedicated to everyday Chrome users.</itunes:subtitle> 
+<itunes:summary>Are you a Chrome user, and you want to know more? Practical Chrome is a podcast all about Chrome. We explore the Chrome the web browser, Chrome OS, in an in depth manner every week. Subscribe and join us on the next episode of Practical Chrome.</itunes:summary> 
+<itunes:category text="Technology"> 
+<itunes:category text="Podcasting" /> 
+</itunes:category> 
+<itunes:category text="Technology"> 
+<itunes:category text="Tech News" /> 
+</itunes:category> 
+<itunes:category text="Technology"> 
+<itunes:category text="Software How-To" /> 
+</itunes:category> 
+<item> 
+<title>We are moving!</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/PDo5aK2-E1s/we-are-moving.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 19 Feb 2015 11:22:20 PST</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-684163531139605535</guid> 
+<description>Those of you that tuned into our most recent episode will already know that Practical Chrome will soon be replaced with +Chromebooks Today. 
+
+We're happy to announce that we've put together a pre-roll episode that helps to explain the transition in more detail. 
+
+You can also subscribe to our brand new MP3 feed (which we promise will remain active this time!) by visiting our landing page at http:&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/PDo5aK2-E1s" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://4.bp.blogspot.com/-YQ6KXvvlP4E/VOYjklpiNuI/AAAAAAAANPU/M9zD8d4ZGmM/s72-c/landing-logo.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/-KJkwkVkjUs/Episode%200%20-%20Prepare%20for%20Launch.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>Those of you that tuned into our most recent episode will already know that Practical Chrome will soon be replaced with +Chromebooks Today. We're happy to announce that we've put together a pre-roll episode that helps to explain the transition in more de</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>Those of you that tuned into our most recent episode will already know that Practical Chrome will soon be replaced with +Chromebooks Today. We're happy to announce that we've put together a pre-roll episode that helps to explain the transition in more detail. You can also subscribe to our brand new MP3 feed (which we promise will remain active this time!) by visiting our landing page at http:</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2015/02/we-are-moving.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/-KJkwkVkjUs/Episode%200%20-%20Prepare%20for%20Launch.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>https://ia801506.us.archive.org/24/items/ChromebooksTodayEpisode0PrepareForLaunch/Episode%200%20-%20Prepare%20for%20Launch.mp3</feedburner:origEnclosureLink> 
+</item> 
+<item> 
+<title>Develop on a Chromebook</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/iA7GzutPTdU/develop-on-chromebook.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 16 Sep 2014 22:17:27 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-1457300572983997835</guid> 
+<description>Do you develop software?  Can you do it on a Chromebook?  We take a look at how and why you might want to develop on a Chromebook.  We will take a look at some online IDEs and also see what else you can do.  The Web Starter Kit might just be the beginning! 
+
+Also in the news Disney is now on Chromecast, and Dropbox is coming to your Chromebook! 
+
+
+
+Video 
+
+URL: http://youtu.be/4k9tWbN5Ci0&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/iA7GzutPTdU" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://4.bp.blogspot.com/-B07vSKvNmFc/VBjsN9s_EJI/AAAAAAAAKX4/58X25zOHO34/s72-c/HTML5.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/3WS-oisZtMs/Practical_Chrome_38.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>Do you develop software?  Can you do it on a Chromebook?  We take a look at how and why you might want to develop on a Chromebook.  We will take a look at some online IDEs and also see what else you can do.  The Web Starter Kit might just be the beginnin</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>Do you develop software?  Can you do it on a Chromebook?  We take a look at how and why you might want to develop on a Chromebook.  We will take a look at some online IDEs and also see what else you can do.  The Web Starter Kit might just be the beginning! Also in the news Disney is now on Chromecast, and Dropbox is coming to your Chromebook! Video URL: http://youtu.be/4k9tWbN5Ci0</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/09/develop-on-chromebook.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/3WS-oisZtMs/Practical_Chrome_38.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_38/Practical_Chrome_38.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>News Hour</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/RMaq1O_5HP4/news-hour.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Wed, 10 Sep 2014 06:19:35 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-7818789027089172939</guid> 
+<description>Nothing but the news this week. With reviews of the new Nvidia K1 chipset, Microsoft releasing a version of Windows with Bing, Apple's iPhone/iWatch announcements, there couldn't be more to talk about except the news! 
+
+Plus Craig got a Moto 360! 
+
+
+
+Video 
+
+URL: http://youtu.be/sG1UfdsgfP4 
+
+Audio 
+Download: mp3  |  Subscribe: MP3 - iTunes - TuneIn - Stitcher Radio - Player.fm 
+
+
+
+Show Notes&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/RMaq1O_5HP4" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-EULWanIUlg0/VA-PCO53ZmI/AAAAAAAAKQw/rQVBUO1Iy9c/s72-c/PC_News_Studio.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/ULnH-c0wmx8/Practical_Chrome_37.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>Nothing but the news this week. With reviews of the new Nvidia K1 chipset, Microsoft releasing a version of Windows with Bing, Apple's iPhone/iWatch announcements, there couldn't be more to talk about except the news! Plus Craig got a Moto 360! Video URL</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>Nothing but the news this week. With reviews of the new Nvidia K1 chipset, Microsoft releasing a version of Windows with Bing, Apple's iPhone/iWatch announcements, there couldn't be more to talk about except the news! Plus Craig got a Moto 360! Video URL: http://youtu.be/sG1UfdsgfP4 Audio Download: mp3  |  Subscribe: MP3 - iTunes - TuneIn - Stitcher Radio - Player.fm Show Notes</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/09/news-hour.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/ULnH-c0wmx8/Practical_Chrome_37.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_37/Practical_Chrome_37.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Lenovo N20p Chromebook</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/gwm5S4iqWWU/lenovo-n20p-chromebook.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 02 Sep 2014 23:40:15 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-5453851628177378059</guid> 
+<description>Lenovo officially sets it sights on the consumer market with the touchable and convertible N20p. With industry leading enterprise computers, can Lenovo produce a low end Chromebook? They have produced expensive heavy duty Thinkpads like the x31 and the new 11e for the education market, but with this model they are more Chromebook like. Inexpensive, light, good battery life, but with&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/gwm5S4iqWWU" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://1.bp.blogspot.com/-oOP4cgAzA2A/VAR34hatNmI/AAAAAAAAKPE/kx4YNfIz14I/s72-c/Lenovo_N20p_Chromebook.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/-9tBXARLR_E/Practical_Chrome_36.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>Lenovo officially sets it sights on the consumer market with the touchable and convertible N20p. With industry leading enterprise computers, can Lenovo produce a low end Chromebook? They have produced expensive heavy duty Thinkpads like the x31 and the n</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>Lenovo officially sets it sights on the consumer market with the touchable and convertible N20p. With industry leading enterprise computers, can Lenovo produce a low end Chromebook? They have produced expensive heavy duty Thinkpads like the x31 and the new 11e for the education market, but with this model they are more Chromebook like. Inexpensive, light, good battery life, but with</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/09/lenovo-n20p-chromebook.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/-9tBXARLR_E/Practical_Chrome_36.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_36/Practical_Chrome_36.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>After the Last Bell: Privacy Questions Regarding School Issued Chromebooks</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/QHFscbei79U/the-last-bell-privacy-questions.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 26 Aug 2014 21:56:50 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-8261576279009222635</guid> 
+<description>Where is the line between privacy and safety when it comes to kids and schools? Should they monitor a child's computer at all times, even when not in school? Should they be able to activate the microphone and/or camera at any time? 
+
+We will debate this issue and how extensions from companies selling administrative software allow this type of tracking in Chromebooks. 
+
+
+
+Video 
+
+URL: http://&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/QHFscbei79U" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-1L6aUk6XELk/U_pxWq5lG7I/AAAAAAAAJtU/18mg-Rzb5P8/s72-c/Chromebook_Privacy3.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/VfU-n3DGMPU/Practical_Chrome_35.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>Where is the line between privacy and safety when it comes to kids and schools? Should they monitor a child's computer at all times, even when not in school? Should they be able to activate the microphone and/or camera at any time? We will debate this is</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>Where is the line between privacy and safety when it comes to kids and schools? Should they monitor a child's computer at all times, even when not in school? Should they be able to activate the microphone and/or camera at any time? We will debate this issue and how extensions from companies selling administrative software allow this type of tracking in Chromebooks. Video URL: http://</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/08/the-last-bell-privacy-questions.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/VfU-n3DGMPU/Practical_Chrome_35.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_35/Practical_Chrome_35.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Buy a Chromebook for School</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/5EJxllZ-_Nc/buy-chromebook-for-school.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Wed, 20 Aug 2014 10:03:31 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-615631472554798252</guid> 
+<description>Don't let them fool you, Chromebooks might just be the exact computer you are looking for when it comes to back to school shopping. With awesome deals available on the most popular models we will highlight some of the reasons Chromebooks are the choice for a laptop purchase right now. 
+
+Also in the new Acer reveals a new breed of ARM based Chromebook, Senkatel gets into the education&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/5EJxllZ-_Nc" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-bhGCuqv1BA8/U_MkwO--X-I/AAAAAAAAJoU/Io2u_-M40XQ/s72-c/back%2Bto%2Bschool.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/QErXkHyf7FE/Practical_Chrome_34.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>Don't let them fool you, Chromebooks might just be the exact computer you are looking for when it comes to back to school shopping. With awesome deals available on the most popular models we will highlight some of the reasons Chromebooks are the choice f</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>Don't let them fool you, Chromebooks might just be the exact computer you are looking for when it comes to back to school shopping. With awesome deals available on the most popular models we will highlight some of the reasons Chromebooks are the choice for a laptop purchase right now. Also in the new Acer reveals a new breed of ARM based Chromebook, Senkatel gets into the education</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/08/buy-chromebook-for-school.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/QErXkHyf7FE/Practical_Chrome_34.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_34/Practical_Chrome_34.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>The Idea of Chrome OS</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/5tmhGn0iLWM/the-idea-of-chrome-os.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 05 Aug 2014 23:46:16 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-1148230287268397217</guid> 
+<description>We have had many operating systems since the time of the computer began. From DOS to Windows, Mac OS to OS X, users have come to know and love some trusted friends. So why Chrome OS, what is the reason? Do we need another OS, a different kind of OS? We tackle this exciting subject with special guest Ara Wagoner on this episode of Practical Chrome. 
+
+
+
+
+Video 
+
+URL: http://youtu.be/&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/5tmhGn0iLWM" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-GaGuxKoEuBQ/U-AV2lZHwDI/AAAAAAAAJUM/oZhRp9137dI/s72-c/idea_of_chrome_os.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/gGEwjLUsa4U/Practical_Chrome_33.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>We have had many operating systems since the time of the computer began. From DOS to Windows, Mac OS to OS X, users have come to know and love some trusted friends. So why Chrome OS, what is the reason? Do we need another OS, a different kind of OS? We t</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>We have had many operating systems since the time of the computer began. From DOS to Windows, Mac OS to OS X, users have come to know and love some trusted friends. So why Chrome OS, what is the reason? Do we need another OS, a different kind of OS? We tackle this exciting subject with special guest Ara Wagoner on this episode of Practical Chrome. Video URL: http://youtu.be/</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/08/the-idea-of-chrome-os.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/gGEwjLUsa4U/Practical_Chrome_33.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_33/Practical_Chrome_33.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Croutons &amp; Bitcoin Part 2 - Practical Chrome 32</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/bVdLGa7ZIeU/croutons-bitcoin-part-2-practical.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Wed, 30 Jul 2014 10:10:54 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-5379199416983497243</guid> 
+<description>In part 2 of the crouton challenge, we find out how John, Craig and James fared.  How difficult was each install?  Were any Chromebooks harmed in the process?  In the end what were the pros and cons of sideloading/dual booting another linux distro on a Chrome OS device? 
+
+
+
+
+Also in the news we wish the Chromecast a happy birthday, Free Chromecasts with more free stuff… and Chrome Beta for&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/bVdLGa7ZIeU" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-Dr4CjR9bXU8/U9buHx4muWI/AAAAAAAAJPw/7Axe0nszPAM/s72-c/croutons_and_bitcoin_part2.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/jnE0FEDT3MU/Practical_Chrome_32.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>In part 2 of the crouton challenge, we find out how John, Craig and James fared.  How difficult was each install?  Were any Chromebooks harmed in the process?  In the end what were the pros and cons of sideloading/dual booting another linux distro on a C</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>In part 2 of the crouton challenge, we find out how John, Craig and James fared.  How difficult was each install?  Were any Chromebooks harmed in the process?  In the end what were the pros and cons of sideloading/dual booting another linux distro on a Chrome OS device? Also in the news we wish the Chromecast a happy birthday, Free Chromecasts with more free stuff… and Chrome Beta for</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/07/croutons-bitcoin-part-2-practical.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/jnE0FEDT3MU/Practical_Chrome_32.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_32/Practical_Chrome_32.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Croutons &amp; Bitcoin Part 1 - Practical Chrome 31</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/WRO1yNFRfVc/croutons-bitcoin-part-1-practical.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 22 Jul 2014 22:41:45 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-4039106904799796972</guid> 
+<description>A few brave tech savvy folks have installed another distribution of Linux next to Chrome OS, but why?  In the first of a two part episode we will go over the details of what, why and how users install another Linux on their Chromebooks.  We will go over the steps that we are going to follow before returning next week to report on how it all works. 
+
+
+
+Also in the news Dell is now taking&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/WRO1yNFRfVc" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://4.bp.blogspot.com/-4uZ1S-mGY0w/U83E0jBkmZI/AAAAAAAAI-s/zZE6fIj_438/s72-c/croutons_and_bitcoin_part1.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">1</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/fYG5AkEllKI/Practical_Chrome_31.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>A few brave tech savvy folks have installed another distribution of Linux next to Chrome OS, but why?  In the first of a two part episode we will go over the details of what, why and how users install another Linux on their Chromebooks.  We will go over</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>A few brave tech savvy folks have installed another distribution of Linux next to Chrome OS, but why?  In the first of a two part episode we will go over the details of what, why and how users install another Linux on their Chromebooks.  We will go over the steps that we are going to follow before returning next week to report on how it all works. Also in the news Dell is now taking</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/07/croutons-bitcoin-part-1-practical.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/fYG5AkEllKI/Practical_Chrome_31.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_31/Practical_Chrome_31.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>ARM vs x86 - Practical Chrome 30</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/xlGy0QWAz6U/arm-vs-x86-practical-chrome-30.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 15 Jul 2014 21:44:47 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-2000448630344536912</guid> 
+<description>This week on Practical Chrome we look at the difference between ARM and x86 processors.  With more models coming out containing both chips which one should you choose?  Is one better than the other?  We will answer these questions and look to the future of chips on this episode. 
+
+Also in the news OS competitor is vying for the sub $250 laptop market, the handwriting is on the wall... Chrome&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/xlGy0QWAz6U" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://4.bp.blogspot.com/-fSsyIzkYgPc/U8Mp5Gey38I/AAAAAAAAItQ/5U8SD44mZCM/s72-c/arm_vs_x86_full3.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/c1U3WZ4TXis/Practical_Chrome_30.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we look at the difference between ARM and x86 processors.  With more models coming out containing both chips which one should you choose?  Is one better than the other?  We will answer these questions and look to the future</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we look at the difference between ARM and x86 processors.  With more models coming out containing both chips which one should you choose?  Is one better than the other?  We will answer these questions and look to the future of chips on this episode. Also in the news OS competitor is vying for the sub $250 laptop market, the handwriting is on the wall... Chrome</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/07/arm-vs-x86-practical-chrome-30.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/c1U3WZ4TXis/Practical_Chrome_30.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/PracticalChrome30/Practical_Chrome_30.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>The Pinnacle of Native Client - Practical Chrome 29</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/QIn51_0gyLg/the-pinnacle-of-native-client-practical.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 08 Jul 2014 22:31:54 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-2127823363151581829</guid> 
+<description>This week on Practical Chrome we look at and try and understand Native Client vs HTML5 when it comes to Chrome Apps. One is using only web based languages such as HTML, CSS, and Javascript while the other is using much lower level languages like C that we see on Windows and MAC computers. What does this mean to us? 
+
+
+
+Video 
+
+URL: http://youtu.be/ASxOz9kndM8 
+
+Audio 
+Download: mp3  |  Subscribe:&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/QIn51_0gyLg" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://4.bp.blogspot.com/-ZL5DFd4QLP8/U7ycUJ_-3jI/AAAAAAAAIXM/MWuOaJFSg2M/s72-c/pinnacle2.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/M42wAa2h8uI/Practical_Chrome_29.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we look at and try and understand Native Client vs HTML5 when it comes to Chrome Apps. One is using only web based languages such as HTML, CSS, and Javascript while the other is using much lower level languages like C that w</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we look at and try and understand Native Client vs HTML5 when it comes to Chrome Apps. One is using only web based languages such as HTML, CSS, and Javascript while the other is using much lower level languages like C that we see on Windows and MAC computers. What does this mean to us? Video URL: http://youtu.be/ASxOz9kndM8 Audio Download: mp3  |  Subscribe:</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/07/the-pinnacle-of-native-client-practical.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/M42wAa2h8uI/Practical_Chrome_29.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/PracticalChrome29/Practical_Chrome_29.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Google I/O 2014 Post-show - Practical Chrome 28</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/iv7Wt9KJmic/google-io-2014-post-show-practical.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Fri, 04 Jul 2014 15:06:45 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-6729241916902238742</guid> 
+<description>This week on Practical Chrome we jump into all the Google I/O happenings.  Will Android and Chrome OS join hands and sing or will a merger just be skin deep?  What about Chromecast did it get some love?  Also it appears that Google Docs would like a Word regarding your document format habits. 
+
+Then in the news Acer reveals a intel i3 Chromebook, CTL enters the Chromebook fray and legacy apps&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/iv7Wt9KJmic" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://4.bp.blogspot.com/-y1l0fkeSQRk/U7M4Fkq5xiI/AAAAAAAAIA8/uk-hK7dV2Uo/s72-c/googleio14poster-materialdesign2.png" height="72" width="72" />
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">1</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/YXDlflfTMXg/Practical_Chrome_28.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we jump into all the Google I/O happenings.  Will Android and Chrome OS join hands and sing or will a merger just be skin deep?  What about Chromecast did it get some love?  Also it appears that Google Docs would like a Word</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we jump into all the Google I/O happenings.  Will Android and Chrome OS join hands and sing or will a merger just be skin deep?  What about Chromecast did it get some love?  Also it appears that Google Docs would like a Word regarding your document format habits. Then in the news Acer reveals a intel i3 Chromebook, CTL enters the Chromebook fray and legacy apps</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/07/google-io-2014-post-show-practical.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/YXDlflfTMXg/Practical_Chrome_28.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/PracticalChrome28/Practical_Chrome_28.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Google I/O 2014 Preshow - Practical Chrome 27</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/myeCi3gaVGc/google-io-2014-practical-chrome-27.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 01 Jul 2014 14:14:31 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-7452517332018684753</guid> 
+<description>This week on Practical Chrome we have our first Google I/O pre-show.  The Google I/O developer conference for 2014 is starting tomorrow and we break it down.  We dig into the sessions, devices, development and fun that I/O may or may not have in store for this year. 
+
+
+
+Also in the news Verizon get a red card for its actions in the Chromebook field, Tegra powered Chromebooks sub in, and Web&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/myeCi3gaVGc" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://1.bp.blogspot.com/-NsSrnMSybvY/U67mwHCydsI/AAAAAAAAH9g/g5xtPANqsUU/s72-c/Google+IO+2014+preshow+1.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/XRYn0Qiz7PI/Practical_Chrome_27.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we have our first Google I/O pre-show.  The Google I/O developer conference for 2014 is starting tomorrow and we break it down.  We dig into the sessions, devices, development and fun that I/O may or may not have in store fo</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we have our first Google I/O pre-show.  The Google I/O developer conference for 2014 is starting tomorrow and we break it down.  We dig into the sessions, devices, development and fun that I/O may or may not have in store for this year. Also in the news Verizon get a red card for its actions in the Chromebook field, Tegra powered Chromebooks sub in, and Web</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/06/google-io-2014-practical-chrome-27.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/XRYn0Qiz7PI/Practical_Chrome_27.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_26-practical_chrome/Practical_Chrome_27.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Acer C720P - Practical Chrome 26</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/Np49yGckYVQ/acer-c720p-practical-chrome-26.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 01 Jul 2014 14:14:04 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-2777043596455453814</guid> 
+<description>This week on Practical Chrome we review the Acer C720P.  The C720 we all know and love as a fast, light, Intel powered performer get just a little better with this P variant.  We look at the differences, how it stands apart, and why these changes are touching.  That’s right we have our hands on a touch model at sub $350, and it is amazing! 
+
+
+
+Also in the news intel is bringing SIMD to&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/Np49yGckYVQ" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-aFE3ZAskN3s/U53bNRHbI7I/AAAAAAAAHkA/u135EMA7USc/s72-c/IMG_20140516_145312543.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/PVVJ8rFC-DQ/Practical_Chrome_26.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we review the Acer C720P.  The C720 we all know and love as a fast, light, Intel powered performer get just a little better with this P variant.  We look at the differences, how it stands apart, and why these changes are tou</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we review the Acer C720P.  The C720 we all know and love as a fast, light, Intel powered performer get just a little better with this P variant.  We look at the differences, how it stands apart, and why these changes are touching.  That’s right we have our hands on a touch model at sub $350, and it is amazing! Also in the news intel is bringing SIMD to</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/06/acer-c720p-practical-chrome-26.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/PVVJ8rFC-DQ/Practical_Chrome_26.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_26/Practical_Chrome_26.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>I Need a Shoulder - Practical Chrome 25</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/wapZ4TuSvtQ/i-need-shoulder-practical-chrome-25.html</link> 
+<category>chrome browser</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Tue, 01 Jul 2014 14:13:41 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-280856258604994887</guid> 
+<description>This week on Practical Chrome we find a shoulder to lean on. What communities are out there for support? What type of support does Google offer for Chrome? Is it easy to find? We have explored the web and will let you know what we found, and what you need to know. 
+
+Also in the news international soccer on your Chromecast, easy email encryption for the masses, and VLC gives chromecast a big hug&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/wapZ4TuSvtQ" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://2.bp.blogspot.com/-sOWJ44Mipn0/U5c6j5sb5DI/AAAAAAAAHe4/1Es2Xhp10Jo/s72-c/Chrome_Support2.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/fQhwR3FfCVE/Practical_Chrome_25.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we find a shoulder to lean on. What communities are out there for support? What type of support does Google offer for Chrome? Is it easy to find? We have explored the web and will let you know what we found, and what you nee</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we find a shoulder to lean on. What communities are out there for support? What type of support does Google offer for Chrome? Is it easy to find? We have explored the web and will let you know what we found, and what you need to know. Also in the news international soccer on your Chromecast, easy email encryption for the masses, and VLC gives chromecast a big hug</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/06/i-need-shoulder-practical-chrome-25.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/fQhwR3FfCVE/Practical_Chrome_25.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_25/Practical_Chrome_25.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Nine Tenths of the Law - Practical Chrome 24</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/bxJJ5AMJB94/nine-tenths-of-law-practical-chrome-24.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 29 May 2014 16:17:52 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-5088333558010266866</guid> 
+<description>This week on Practical Chrome we talk about what you own, and what is good for you, when it comes to your apps.  Last week Google disabled an app that held users valuable data without asking, and we ask the question: Is this my app or are you just letting me use it? 
+
+
+
+ Most OS manufacturers are going this route. What say you? 
+
+
+
+Video 
+
+URL: http://youtu.be/j7ZhAs_ZgZA 
+
+Audio 
+Download: mp3  |&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/bxJJ5AMJB94" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-jVNmG5nctvs/U4e8tbL46vI/AAAAAAAAHFs/06BqoYlRY0s/s72-c/nine_tenths_24.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/n_lSEDmbG9c/Practical_Chrome_24.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we talk about what you own, and what is good for you, when it comes to your apps.  Last week Google disabled an app that held users valuable data without asking, and we ask the question: Is this my app or are you just lettin</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we talk about what you own, and what is good for you, when it comes to your apps.  Last week Google disabled an app that held users valuable data without asking, and we ask the question: Is this my app or are you just letting me use it?  Most OS manufacturers are going this route. What say you? Video URL: http://youtu.be/j7ZhAs_ZgZA Audio Download: mp3  |</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/05/nine-tenths-of-law-practical-chrome-24.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/n_lSEDmbG9c/Practical_Chrome_24.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_24/Practical_Chrome_24.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>HP 14 Chromebook - Practical Chrome 23</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/aJchM7z3r_A/hp-14-chromebook-practical-chrome-23.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 22 May 2014 12:35:17 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-4464247395038094126</guid> 
+<description>This week on Practical Chrome we take a deep look at the HP 14 Chromebook.  With 4GB or ram, an Intel Celeron processor and a 14 inch screen, this large, powerful and colorful Chromebook might just be a standard bearer. 
+
+Do you have a question about the HP 14 or the 11?  Please send them in and we will answer them on air. 
+
+
+
+
+Video 
+
+URL: http://youtu.be/LzmBM2FPUUo 
+
+Audio 
+Download: mp3  |  &lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/aJchM7z3r_A" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://1.bp.blogspot.com/-CPTYCy-df-s/U3j-pXs4WhI/AAAAAAAAG6Y/t4WrTBrgZek/s72-c/ep_23_hp_14.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/zKI7oCeJtmM/Practical_Chrome_23.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on Practical Chrome we take a deep look at the HP 14 Chromebook.  With 4GB or ram, an Intel Celeron processor and a 14 inch screen, this large, powerful and colorful Chromebook might just be a standard bearer. Do you have a question about the H</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on Practical Chrome we take a deep look at the HP 14 Chromebook.  With 4GB or ram, an Intel Celeron processor and a 14 inch screen, this large, powerful and colorful Chromebook might just be a standard bearer. Do you have a question about the HP 14 or the 11?  Please send them in and we will answer them on air. Video URL: http://youtu.be/LzmBM2FPUUo Audio Download: mp3  |  </itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/05/hp-14-chromebook-practical-chrome-23.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/zKI7oCeJtmM/Practical_Chrome_23.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_23/Practical_Chrome_23.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Q and A Spring 2014 - Practical Chrome 22</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/K593rzjIraU/q-and-spring-2014-practical-chrome-22.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 15 May 2014 07:27:42 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-4060211321304490033</guid> 
+<description>This week we read and take your questions live on the air.  Do you have a question about your Chromebook or Chrome browser?  Then send it to us and we will answer it live on the broadcast.  You can reach us via the contact link at the top of PracticalChrome.com, @PracticalChrome on Twitter or in the comments section on the G+ event page. 
+
+
+
+Also in the news Chrome App integration in MACs goes&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/K593rzjIraU" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-9c0YUo_jOqk/U2_GbyvWx2I/AAAAAAAAGo8/GjC6x6_zs6I/s72-c/QA_Spring_2014.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/0UxG4q7X8PQ/Practical_Chrome_22.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week we read and take your questions live on the air.  Do you have a question about your Chromebook or Chrome browser?  Then send it to us and we will answer it live on the broadcast.  You can reach us via the contact link at the top of PracticalChr</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week we read and take your questions live on the air.  Do you have a question about your Chromebook or Chrome browser?  Then send it to us and we will answer it live on the broadcast.  You can reach us via the contact link at the top of PracticalChrome.com, @PracticalChrome on Twitter or in the comments section on the G+ event page. Also in the news Chrome App integration in MACs goes</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/05/q-and-spring-2014-practical-chrome-22.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/0UxG4q7X8PQ/Practical_Chrome_22.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_22/Practical_Chrome_22.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>If You Can, Snagit - Practical Chrome 21</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/9Ql6TDluO98/if-you-can-snagit-practical-chrome-21.html</link> 
+<category>chrome browser</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 08 May 2014 10:33:18 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-6986221877871495402</guid> 
+<description>On this episode of Practical Chrome we interview a few members of the team from TechSmith that created Snagit for Chrome.  We will discuss with Kelly Rush and Randy Schott, SnagIt’s journey from an awesome Windows app to a, cannot live without, Chrome based screencasting powerhouse. 
+
+
+Also in the news we Bing in Chrome OS and info on the Google and Intel event that happened. 
+Plus how is the&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/9Ql6TDluO98" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-zKZU5ilzJGg/U2e8nm1G6fI/AAAAAAAAGcc/S63s7UBYS8Q/s72-c/Snagit_for_Chromebook.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/fJGxyHxApsk/Practical_Chrome_21.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>On this episode of Practical Chrome we interview a few members of the team from TechSmith that created Snagit for Chrome.  We will discuss with Kelly Rush and Randy Schott, SnagIt’s journey from an awesome Windows app to a, cannot live without, Chrome ba</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>On this episode of Practical Chrome we interview a few members of the team from TechSmith that created Snagit for Chrome.  We will discuss with Kelly Rush and Randy Schott, SnagIt’s journey from an awesome Windows app to a, cannot live without, Chrome based screencasting powerhouse. Also in the news we Bing in Chrome OS and info on the Google and Intel event that happened. Plus how is the</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/05/if-you-can-snagit-practical-chrome-21.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/fJGxyHxApsk/Practical_Chrome_21.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_21/Practical_Chrome_21.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Scuttlebutt - Practical Chrome 20</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/MZvIoVfddjc/scuttlebutt-practical-chrome-20.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 01 May 2014 08:45:02 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-1838914171854103044</guid> 
+<description>On the episode of Practical Chrome we dive into the Scuttlebutt of it all.  There have been a few big stories recently around G+, new Chromebooks from ASUS, Acer, and Samsung.  Also there have been some big applications hitting the Chrome Web Store.  We bring it all to you and more on this broadcast! 
+
+
+
+Finally we also find out 'What's in the Box!' that just came in from Mountain View. 
+
+
+
+Video&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/MZvIoVfddjc" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://2.bp.blogspot.com/-gZAbLZxj-0o/U1_bnB5h3kI/AAAAAAAAGSg/1cdvr7mhLCY/s72-c/PC_News_Studio_20.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/PQlxqy44ftM/Practical_Chrome_20.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>On the episode of Practical Chrome we dive into the Scuttlebutt of it all.  There have been a few big stories recently around G+, new Chromebooks from ASUS, Acer, and Samsung.  Also there have been some big applications hitting the Chrome Web Store.  We</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>On the episode of Practical Chrome we dive into the Scuttlebutt of it all.  There have been a few big stories recently around G+, new Chromebooks from ASUS, Acer, and Samsung.  Also there have been some big applications hitting the Chrome Web Store.  We bring it all to you and more on this broadcast! Finally we also find out 'What's in the Box!' that just came in from Mountain View. Video</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/04/scuttlebutt-practical-chrome-20.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/PQlxqy44ftM/Practical_Chrome_20.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_20/Practical_Chrome_20.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>The New Age Of Ascension - Practical Chrome 19</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/cfjhmfOxrRM/the-new-age-of-ascension-practical.html</link> 
+<category>chrome browser</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 24 Apr 2014 09:41:45 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-8911549729898139960</guid> 
+<description>This week on +Practical Chrome we interview +James Niesewand, CEO and lead Game Designer at +Illyriad Games.  The web is dramatically changing, with new technologies and standards being developed every day.  We will discuss how +Illyriad is paving the future of the web with their new game +Age Of Ascent. 
+
+
+
+
+
+Video 
+
+URL: http://youtu.be/9qJ2Rt7J32o 
+
+Audio 
+Download: mp3  |  Subscribe: MP3 - iTunes&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/cfjhmfOxrRM" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://2.bp.blogspot.com/-L9w4FdIyuYc/U1FQcFgQKII/AAAAAAAAFvg/ywkzlb81LDs/s72-c/AgeOfAscent.png" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">1</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/eyUZLuHVN4E/Practical_Chrome_19.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on +Practical Chrome we interview +James Niesewand, CEO and lead Game Designer at +Illyriad Games.  The web is dramatically changing, with new technologies and standards being developed every day.  We will discuss how +Illyriad is paving the fut</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on +Practical Chrome we interview +James Niesewand, CEO and lead Game Designer at +Illyriad Games.  The web is dramatically changing, with new technologies and standards being developed every day.  We will discuss how +Illyriad is paving the future of the web with their new game +Age Of Ascent. Video URL: http://youtu.be/9qJ2Rt7J32o Audio Download: mp3  |  Subscribe: MP3 - iTunes</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/04/the-new-age-of-ascension-practical.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/eyUZLuHVN4E/Practical_Chrome_19.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_19/Practical_Chrome_19.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Stand And Deliver - Practical Chrome 18</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/hJKR0_O_-kM/stand-and-deliver-practical-chrome-18.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Wed, 16 Apr 2014 19:28:14 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-776570469889231793</guid> 
+<description>This week on +Practical Chrome Education IT Coordinator, and fellow podcaster, +Bjorn Behrendt joins us to discuss Chrome in education.  With so many school districts starting to use Chrome we talk to Bjorn about these transitions and how it all works. 
+
+Also in the news this week the video debuting the new +Lenovo Yoga Laptop Chromebook for education just came out, and it is neat. 
+
+That and so&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/hJKR0_O_-kM" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://1.bp.blogspot.com/-IPZAcgqPIMc/U0vVEvQH0MI/AAAAAAAAFt8/Has1X4ma4T8/s72-c/stack-of_edu_sammys.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/WnqRqnIWrTQ/Practical_Chrome_18.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>This week on +Practical Chrome Education IT Coordinator, and fellow podcaster, +Bjorn Behrendt joins us to discuss Chrome in education.  With so many school districts starting to use Chrome we talk to Bjorn about these transitions and how it all works. A</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>This week on +Practical Chrome Education IT Coordinator, and fellow podcaster, +Bjorn Behrendt joins us to discuss Chrome in education.  With so many school districts starting to use Chrome we talk to Bjorn about these transitions and how it all works. Also in the news this week the video debuting the new +Lenovo Yoga Laptop Chromebook for education just came out, and it is neat. That and so</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/04/stand-and-deliver-practical-chrome-18.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/WnqRqnIWrTQ/Practical_Chrome_18.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_18/Practical_Chrome_18.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Calling All Gamers - Practical Chrome 17</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/PIxV37SZbaY/calling-all-gamers-practical-chrome-17.html</link> 
+<category>chrome browser</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 10 Apr 2014 20:25:18 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-687808265309688801</guid> 
+<description>&amp;lt;!-- main post image --&amp;gt; 
+
+
+&amp;lt;!-- episode summary text --&amp;gt; 
+
+
+
+
+
+
+
+
+Tonight on +Practical Chrome we discuss why Chrome, Chrome OS, and modern browser gaming is getting better and better.  Did you know there are already some killer games out there?  We will also look into the future where browsers will not just be looking at the web but putting you in it! 
+
+Also in the news Chrome Remote to Desktop&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/PIxV37SZbaY" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://2.bp.blogspot.com/-h1EhDXmtwCE/U0dc2fgGT4I/AAAAAAAAFYM/K2OZh3Vaev0/s72-c/IMG_20140405_161709249_HDR.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/DVv3QF6ZNY4/Practical_Chrome_17.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>&amp;lt;!-- main post image --&amp;gt; &amp;lt;!-- episode summary text --&amp;gt; Tonight on +Practical Chrome we discuss why Chrome, Chrome OS, and modern browser gaming is getting better and better.  Did you know there are already some killer games out there?  We will</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>&amp;lt;!-- main post image --&amp;gt; &amp;lt;!-- episode summary text --&amp;gt; Tonight on +Practical Chrome we discuss why Chrome, Chrome OS, and modern browser gaming is getting better and better.  Did you know there are already some killer games out there?  We will also look into the future where browsers will not just be looking at the web but putting you in it! Also in the news Chrome Remote to Desktop</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/04/calling-all-gamers-practical-chrome-17.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/DVv3QF6ZNY4/Practical_Chrome_17.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_17/Practical_Chrome_17.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Time To Change Your eXPerience - Practical Chrome 16</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/_7_AqABbYhg/time-to-change-your-experience.html</link> 
+<category>chrome os</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Fri, 04 Apr 2014 21:39:04 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-4784967659732050354</guid> 
+<description>&amp;lt;!-- main post image --&amp;gt; 
+
+
+&amp;lt;!-- episode summary text --&amp;gt; 
+
+
+
+On this episode of Practical Chrome we discuss why Chrome OS is a great choice for users leaving the grand old OS Windows XP.  XP was, and still is, a great OS that brought most of us into the 20th century.  With Microsoft finally sunsetting support and patching for this 15 year old OS, users will have to make a choice. 
+
+Also in the&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/_7_AqABbYhg" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://3.bp.blogspot.com/-juhI29GSlYA/Uz6_5RBeE0I/AAAAAAAAFRs/496qEYzD2v4/s72-c/IMG_20140401_080854040_HDR~2.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/szmsRZTAZf8/Practical_Chrome_16.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>&amp;lt;!-- main post image --&amp;gt; &amp;lt;!-- episode summary text --&amp;gt; On this episode of Practical Chrome we discuss why Chrome OS is a great choice for users leaving the grand old OS Windows XP.  XP was, and still is, a great OS that brought most of us into</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>&amp;lt;!-- main post image --&amp;gt; &amp;lt;!-- episode summary text --&amp;gt; On this episode of Practical Chrome we discuss why Chrome OS is a great choice for users leaving the grand old OS Windows XP.  XP was, and still is, a great OS that brought most of us into the 20th century.  With Microsoft finally sunsetting support and patching for this 15 year old OS, users will have to make a choice. Also in the</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/04/time-to-change-your-experience.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/szmsRZTAZf8/Practical_Chrome_16.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_16/Practical_Chrome_16.mp3</feedburner:origEnclosureLink>
+</item> 
+<item> 
+<title>Wrap Me In Leather And Take Me Home - Practical Chrome 15</title> 
+<link>http://feedproxy.google.com/~r/PracticalChrome_podcast/~3/_igWb5y4kUU/wrap-me-in-leather-and-take-me-home.html</link> 
+<category>chromebook</category> 
+<category>podcast</category> 
+<author>john@practicalchrome.com (Practical Chrome)</author> 
+<pubDate>Thu, 27 Mar 2014 18:30:50 PDT</pubDate> 
+<guid isPermaLink="false">tag:blogger.com,1999:blog-3971548749654868223.post-1374065014644316283</guid> 
+<description>&amp;lt;!-- main post image --&amp;gt; 
+
+
+&amp;lt;!-- episode summary text --&amp;gt; 
+
+
+On this episode we take a hard look at all the news and reviews around the new Chromebook 2 from Samsung.  Does the leather make it better or simply naughty? 
+
+Also in the news we have literally a bucket full of goodies because we have be away for these last two whole weeks!  Since our last show Chromecast is taking over the world, forget&lt;img src="//feeds.feedburner.com/~r/PracticalChrome_podcast/~4/_igWb5y4kUU" height="1" width="1" alt=""/&gt;</description> 
+<media:thumbnail url="http://1.bp.blogspot.com/-TizCaLO1Sdg/UzTM42RPViI/AAAAAAAAFPo/z9tX98FHuno/s72-c/chromebook2-11_012_back-open_jet-black-hr.jpg" height="72" width="72" /> 
+<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total> 
+<media:content url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/GjX9x_IKluI/Practical_Chrome_s01e15.mp3" type="audio/mpeg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:subtitle>&amp;lt;!-- main post image --&amp;gt; &amp;lt;!-- episode summary text --&amp;gt; On this episode we take a hard look at all the news and reviews around the new Chromebook 2 from Samsung.  Does the leather make it better or simply naughty? Also in the news we have liter</itunes:subtitle> 
+<itunes:author>Practical Chrome</itunes:author> 
+<itunes:summary>&amp;lt;!-- main post image --&amp;gt; &amp;lt;!-- episode summary text --&amp;gt; On this episode we take a hard look at all the news and reviews around the new Chromebook 2 from Samsung.  Does the leather make it better or simply naughty? Also in the news we have literally a bucket full of goodies because we have be away for these last two whole weeks!  Since our last show Chromecast is taking over the world, forget</itunes:summary> 
+<itunes:keywords>Podcast,Chrome,Chromebook,Chromebox,Chromium,Chrome,OS,Chromium,OS,Chrome,Web,Browser,Chrome,Operating,System</itunes:keywords>
+<feedburner:origLink>http://www.practicalchrome.com/2014/03/wrap-me-in-leather-and-take-me-home.html</feedburner:origLink> 
+<enclosure url="http://feedproxy.google.com/~r/PracticalChrome_podcast/~5/GjX9x_IKluI/Practical_Chrome_s01e15.mp3" length="0" type="audio/mpeg" /> 
+<feedburner:origEnclosureLink>http://archive.org/download/practical_chrome_s01-practical_chrome/Practical_Chrome_s01e15.mp3</feedburner:origEnclosureLink>
+</item> 
+<media:credit role="author">Practical Chrome</media:credit> 
+<media:rating>nonadult</media:rating> 
+<media:description type="plain">Dedicated to everyday Chrome users.</media:description> 
+</channel> 
+</rss> 
