@@ -16,7 +16,7 @@
       "scripts": ["js/background.js"]
     }
   },
-
+  
   "permissions": [
     "https://ajax.googleapis.com/",
     "http://www.chromebooks.today/",

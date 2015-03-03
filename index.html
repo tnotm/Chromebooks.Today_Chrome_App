@@ -23,33 +23,14 @@
      <md-list>
       <md-item data-ng-repeat="id in itemNames">
         <md-item-content>
-<!--           <div class="md-tile-left"><i class="fa fa fa-microphone fa-3x"></i></div> -->
           <div class="md-tile-content">
             <h2>{{id.title}}</h2>
 			<h3>{{id.pubDate | date:"MM/dd/yyyy"}} | <i class="fa fa-clock-o"></i> {{id.duration.__text}}</h3>
-<!--           <p>{{id.summary.__cdata}}</p> -->
 		  </div>
         </md-item-content>
         <md-divider inset></md-divider>
       </md-item>
     </md-list>
-    <!-- <md-list>
-      <md-item data-ng-repeat="item in items">
-        <md-item-content>
-          <div class="md-tile-left">
-            <img data-ng-src="{{item.face}}" alt="{{item.who}}" class="face">
-          </div>
-          <div class="md-tile-content">
-            <h3>{{item.what}}</h3>
-            <h4>{{item.who}}</h4>
-            <p>
-              {{item.notes}}
-            </p>
-          </div>
-        </md-item-content>
-        <md-divider inset></md-divider>
-      </md-item>
-    </md-list> -->
   </md-content>
 </div>
 
