@@ -1,0 +1,22 @@
+  <md-toolbar md-scroll-shrink>
+    <div class="md-toolbar-tools">
+      <h3>
+        <img src="assets/logo_rnd_sm.jpg" style="float:left;width:30px;height:30px;margin-top:0px;margin-right:15px;"><div id="title">Chromebooks.Today Chrome App</div>
+      </h3>
+    </div>
+  </md-toolbar>
+  <md-content style="height: 600px;">
+     <md-list>
+      <md-item data-ng-repeat="id in itemNames">
+        <md-item-content>
+          <div class="md-tile-content">
+            <a href="#about" ng-class="{ testClass: $index == id }" ng-click="itemId($index)">{{ id.title }}</a>
+            <h2><a href="#about">{{id.title}}</a></h2>
+			<h3>{{id.pubDate | date:"MM/dd/yyyy"}} | <i class="fa fa-clock-o"></i> {{id.duration.__text}}</h3>
+		  </div>
+        </md-item-content>
+        <md-divider inset></md-divider>
+      </md-item>
+    </md-list>
+  </md-content>
+</div>

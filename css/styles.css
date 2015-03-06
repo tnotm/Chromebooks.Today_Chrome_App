@@ -3,11 +3,8 @@ md-toolbar {
         -webkit-app-region: drag;
   }
 
-/*need to add
-  .title-button {
+#title-button {
         -webkit-app-region: no-drag;
       }
-  to any children/buttons.
-  see https://developer.chrome.com/apps/app_window */
 
 #title { float: left; margin-top: 2px; padding-top: 0px; font-weight: bold; }

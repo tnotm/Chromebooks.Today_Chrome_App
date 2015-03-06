@@ -9,36 +9,14 @@
 
 <body>
 
-  <!--<h1 id="greeting"></h1> -->
-
-  <div data-ng-controller="FeedCtrl" layout="column" layout-fill>
-  <md-toolbar md-scroll-shrink>
-    <div class="md-toolbar-tools">
-      <h3>
-        <img src="assets/logo_rnd_sm.jpg" style="float:left;width:25px;height:25px;margin-top:0px;margin-right:15px;"><div id="title">Chromebooks.Today Chrome App</div>
-      </h3>
-    </div>
-  </md-toolbar>
-  <md-content style="height: 600px;">
-     <md-list>
-      <md-item data-ng-repeat="id in itemNames">
-        <md-item-content>
-          <div class="md-tile-content">
-            <h2>{{id.title}}</h2>
-			<h3>{{id.pubDate | date:"MM/dd/yyyy"}} | <i class="fa fa-clock-o"></i> {{id.duration.__text}}</h3>
-		  </div>
-        </md-item-content>
-        <md-divider inset></md-divider>
-      </md-item>
-    </md-list>
-  </md-content>
-</div>
+  <div class="page {{ pageClass }}" ng-view></div>
 
   <!-- Angular Material Dependencies                                  -->
   <script src="/js/angular.js"></script>
   <script src="/js/angular-animate.min.js"></script>
   <script src="/js/angular-aria.min.js"></script>
   <script src="/js/angular-material.min.js"></script>
+  <script src="/js/angular-route.js"></script>
 
   <!-- xml to json script- to pull in the podcast feed                -->
   <script src="/js/xml2json.js"></script>
