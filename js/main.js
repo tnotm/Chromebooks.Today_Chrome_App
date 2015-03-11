@@ -1,69 +1,90 @@
-window.onload = function() {
-};
+window.onload = function() {};
 
-function FeedCtrl($scope, $http) {
+  itemId = 0;
+  index = 0;
 
-    $scope.itemId = 0;
+function FeedCtrl($scope, GetFeed) {
 
-   $http.get('assets/feed.xml').then(function(response) {
-//	$http.get('http://cdn.chromebooks.today/rss/feed.xml').then(function(response) {
-    var items = [];
-	  var x2js = new X2JS()
-    var itemDef = x2js.xml_str2json(response.data);
-    $scope.itemsObj = itemDef.rss.channel.item;
+  console.log('Get episodes in ctrl');
 
-    var numOfItems = $scope.itemsObj.length;
-
-    for (var i = 0; i < numOfItems; i++) {
-      items.push({
-        title: $scope.itemsObj[i].title,
-        link: $scope.itemsObj[i].link,
-		author: $scope.itemsObj[i].author,
-		pubDate: new Date($scope.itemsObj[i].pubDate),
-		summary: $scope.itemsObj[i].summary,
-		duration: $scope.itemsObj[i].duration,
-		description: $scope.itemsObj[i].description
-      });
-    }
-    $scope.itemNames = items;
+  GetFeed.getEpisodes().then(function(itemsObj) {
+    console.log("xryy", itemsObj);
+    $scope.itemNames = itemsObj;
   });
+
+  console.log('display items from ctrl');
+  console.log('scope.items', $scope.title);
+
+
+  //$scope.itemId = GetFeed.aboutEpisode(index);
+    //console.log("xryy", itemId);
+    //$scope.itemId = itemId;
 
   $scope.itemId = function(index) {
     $scope.itemId = index;
-    console.log($scope.itemId);
+    GetFeed.aboutEpisode($scope.itemId);
+  //  console.log($scope.itemId);
+  //  console.log($scope.itemNames[$scope.itemId].title);
   };
 
+}
 
-};
+function EpisodeCrtl($scope, GetFeed) {
 
-function EpisodeCrtl($scope) {
+  //GetFeed.aboutEpisode();
+    //console.log("xryy", itemId);
+    //$scope.itemId = itemId;
+}
 
-};
+function GetFeed($http) {
+
+  itemId = function(index) {
+    itemId = index;
+    console.log('itemId_Index', itemId);
+    return itemId;
+  };
+
+  function items() {
+    console.log('Firing pullFeed');
+    var itemsObj = [];
+    return $http.get('/assets/feed.xml').then(function(response) {
+      var x2js = new X2JS();
+      var itemDef = x2js.xml_str2json(response.data);
+      var itemsObj = itemDef.rss.channel.item;
+      console.log('getFeedItems', itemsObj);
+      return itemsObj;
+    });
+  }
+
+  return {
+    getEpisodes: function() {
+      return items();
+    },
+    aboutEpisode: function() {
+      return itemId();
+    }
+  };
+}
 
 var app = angular.module('ctApp', ['ngMaterial', 'ngAnimate', 'ngRoute'])
-.config(function($routeProvider) {
+  .config(function($routeProvider) {
     $routeProvider
-    	.when('/', {
-    		templateUrl: 'list.html',
-            controller: 'FeedCtrl'
-    	})
-    	.when('/about', {
-    		templateUrl: 'about.html',
-           controller: 'EpisodeCrtl'
-    	})
-    	.when('/contact', {
-    		templateUrl: 'page-contact.html',
-            controller: 'contactController'
-    	});
-})
+      .when('/', {
+        templateUrl: 'list.html',
+        controller: 'FeedCtrl'
+      })
+      .when('/about', {
+        templateUrl: 'about.html',
+        controller: 'EpisodeCrtl'
+      });
+  })
 // config from Shaun at StackOverFlow - http://stackoverflow.com/a/22798336
-.config( [ '$compileProvider', function( $compileProvider ) {
-        var currentImgSrcSanitizationWhitelist = $compileProvider.imgSrcSanitizationWhitelist();
-        var newImgSrcSanitizationWhiteList = currentImgSrcSanitizationWhitelist.toString().slice(0,-1)
-        + '|chrome-extension:'
-        +currentImgSrcSanitizationWhitelist.toString().slice(-1);
-    }
+.config(['$compileProvider',
+  function($compileProvider) {
+    var currentImgSrcSanitizationWhitelist = $compileProvider.imgSrcSanitizationWhitelist();
+    var newImgSrcSanitizationWhiteList = currentImgSrcSanitizationWhitelist.toString().slice(0, -1) + '|chrome-extension:' + currentImgSrcSanitizationWhitelist.toString().slice(-1);
+  }
 ])
-.controller('FeedCtrl', FeedCtrl)
-.controller('EpisodeCrtl', EpisodeCrtl);
-
+  .factory('GetFeed', GetFeed)
+  .controller('FeedCtrl', FeedCtrl)
+  .controller('EpisodeCrtl', EpisodeCrtl);
